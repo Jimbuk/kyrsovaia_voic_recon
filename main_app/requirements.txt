@@ -1,0 +1,9 @@
+numpy
+requests
+flask
+flask-restful
+libusb1
+gunicorn
+tensorflow<2.11
+librosa
+tflite_support
